@@ -39,6 +39,8 @@
         "concurrently": {
             "shell-quote": "^1.11.0"
         },
+        "glob": "^14.0.3",
+        "minimatch": "^11.0.3",
         "vite": "$vite",
         "vitest": "$vitest"
     },
